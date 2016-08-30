@@ -3,7 +3,7 @@ agile-to-shade
 
 Chrome extension that replaces occurrences of 'agile' with 'my shade'
 
-[Direct download of crx file](https://github.com/jcsalterego/agile-to-shade/blob/master/AgileToShade.crx?raw=true)
+[Direct download of crx file](https://github.com/jcsalterego/AgileToShade/raw/master/AgileToShade.crx)
 
 Note that there are forks of this extension that simply replace 'agile' with 'shade'.
 
